@@ -6,7 +6,7 @@ metadata:
 spec:
   ports:
   - name: http2
-    nodePort: 31368
+    nodePort: 32333
     port: 80
     protocol: TCP
     targetPort: 8080
